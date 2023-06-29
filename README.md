@@ -1,6 +1,3 @@
-# lfpod
-YouTube RSS feed multiplexing server with low-fi audio-only output feed.
-
 **lfpod** server:
 
   * parses multiple input YouTube RSS feeds;

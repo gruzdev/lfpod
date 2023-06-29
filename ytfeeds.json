@@ -1,0 +1,18 @@
+{
+    "ytfeeds": [
+        {
+            "name": "svtv",
+            "channel_id": "UCWjEiMNZv4g3P9BWbrtMjyA",
+            "keywords": ["день войны", "кашин"]
+        },
+        {
+            "name": "eschulmann",
+            "channel_id": "UCL1rJ0ROIw9V1qFeIN0ZTZQ",
+            "keywords": ["статус"]
+        },
+        {
+            "id": "potapenko",
+            "channel_id": "UC54SBo5_usXGEoybX1ZVETQ"
+        }
+    ]
+}
